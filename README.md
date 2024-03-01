@@ -54,3 +54,8 @@ It was also observed that customer preferences had no effect on any of the ratin
 It can be seen that most of the consumers were in their 20s (119 of 138) which makes about 86.23% of the customers. 86.96% of the consumers are students by occupation leaving 11.59 employed and 1.45% unemployed. 92.75% of the consumers are single while 7.25% are married. 71.01% are on the medium budget, 25.36% with low budget and 3.62% on a high budget. 89.86% of consumers were independent of children leaving 7.97% being kids and 2.17% having dependent children. 64.46% used public mode of transportation, while 25.36% used cars and 10.14% walked to the restaurant. 36.96% of the consumers are abstemious, 34.06% are causal drinkers and 28.99% are social drinkers. 81.16% of the consumers do not smoke while the remaining 18.84% are smokers.
 The bias in the data sample is for the consumers in the 20s age group. Since they make a large percentage (86.23%) of the consumers, the consumer demographics seems to be inclined towards them, hence you find a large percentage of the consumers being students, single, on a medium budget, independent of children, use public mode of transportation and are not smokers.
 
+![](demographics.png)
+
+3. The demand for Mexican cuisine as the preferred cuisine is relatively high compared to the other cuisines, this most likely to be because the consumers and the restaurants are in Mexico. There is also a large population of consumers in San Luis Potosi. 62.75% of the consumers in San Luis Potosi preferred to order Mexican cuisine.
+
+4. ![]()
