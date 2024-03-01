@@ -19,4 +19,18 @@ The project is to analyze and draw out meaningful insight from this dataset whic
 The following Power BI features were incorporated;
 DAX, quick measures, filtering, data modeling, tooltips.
 
+## Modelling
+
+Automatically derived relationships were adjusted to remove and replace unwanted relationships from the desired relationships.
+
+![](model.png)
+
+## Visualization
+
+The report consists of 3 pages;
+1. Consumer demographics
+2. Restaurant ratings
+3. Consumer preferences
+
+## Analysis
 
