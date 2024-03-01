@@ -58,4 +58,14 @@ The bias in the data sample is for the consumers in the 20s age group. Since the
 
 3. The demand for Mexican cuisine as the preferred cuisine is relatively high compared to the other cuisines, this most likely to be because the consumers and the restaurants are in Mexico. There is also a large population of consumers in San Luis Potosi. 62.75% of the consumers in San Luis Potosi preferred to order Mexican cuisine.
 
-4. ![]()
+Preferred cuisine    |  Consumer preferences
+-------------------- |  -----------------
+![](preference.png)  |   ![](consumer_preference.png)
+
+4. I would be looking for a restaurant located in San Luis Potosi, which has no franchise, is in a closed area, has parking space, does not offer alcohol services or allow smoking, has medium price and prepares the best Mexican cuisine to invest in since analysis show that that is what a large percentage of the consumers want.
+
+![](investment.png)
+
+## Conclusion/Recommendation
+
+Restaurants in San Luis Potosi should be looking to serve consumers in their 20s since they make up a larger percentage of the the consumers and also try to tailor their services to suit this demographics.
